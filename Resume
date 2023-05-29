@@ -1,0 +1,107 @@
+
+<html lang="en">
+    <head>
+        <title>Noah Kaplan - Resume</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+        <link rel="stylesheet" href="resumestyle.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Serif+Pro">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+    </head>
+    <body>
+        <div id="resume">
+            <h1>Noah Kaplan</h1>
+            <ul>
+                <li><a href="mailto:noahjkaplan@gmail.com">noahjkaplan@gmail.com</a></li>
+                <li>(941) 321-1238</li>
+                <li>Sacramento, CA (open to relocation)</li>
+            </ul>
+            <p>Scientific professional with experience in molecular biology, leadership, regulatory affairs, technology implementation, and scientific communication. </p>
+
+            <h2>Education</h2>
+
+<h3><span class="left" >Masters in Biology</span> <span class="center">Florida Atlantic University</span> <span class="right">2014-2016</span></h3>
+<p>Thesis: “The analysis of a lysine-rich wound-response protein in tomato plants”<br>Advisor: Dr. Xing-Hai Zhang</p>
+
+<h3><span class="left" >Bachelors in Political Science</span> <span class="center">University of North Florida</span> <span class="right">2006-2011</span></h3>
+<p>Research: “A broader and bolder U.S. policy toward Somalia”<br>Advisor: Ambassador Nancy Soderberg</p>
+
+            <h2>Experience</h2>
+
+<h3><span class="left" >Laboratory Director</span> <span class="center">The Niva Labs</span> <span class="right">2019-2022</span></h3>
+<p>The Niva Labs was an analytical testing lab servicing cannabis and pharmaceutical industries.</p>
+<ul>
+<li>Managed a team of 16 that included analytical chemists, biologists, lab managers, and lab technicians</li>
+<li>Maintained laboratory accreditations and licenses in compliance with California state regulators and ISO 17025</li>
+<li>Hired laboratory personnel and implemented software solutions(LIMS) and efficiency improvements in the lab</li>
+<li>Managed the validation of new methods and served as a technical liaison to customers</li>
+<li>Created a detailed cost analysis of all lab methods</li>
+</ul>
+
+<h3><span class="left" >Consultant</span> <span class="center">Multiple Companies</span> <span class="right">2019</span></h3>
+<p>I helped startup scientific companies research and write regulatory proposals.</p>
+<ul>
+<li>Wrote regulatory proposals for lab-based manufacturing companies</li>
+<li>Researched regulations and interviewed policy makers to complete proposals</li>
+</ul>
+
+<h3><span class="left" >Laboratory Manager</span> <span class="center">Florida Atlantic University</span> <span class="right">2016-2018</span></h3>
+<p>I set up the automated manufacturing protocols for Small World Initiative(now known as Tiny Earth).</p>
+<ul>
+<li>Purchasing and set up robotic mass-production equipment</li>
+<li>Managed the data storage, producing materials production, and supply inventory for the program</li>
+<li>Streamlined complex experiments for students and wrote SOPs for the program</li>
+</ul>
+
+<h3><span class="left" >Researcher/Teaching Assistant</span> <span class="center">Zhang Lab</span> <span class="right">2014-2016</span></h3>
+<p>The Zhang Lab is a plant biotechnology research lab that investigates the utility and function of genetic components in peppers, tomatoes, and tobacco through genetic transformations and bioinformatics analysis.</p>
+<ul>
+<li>Preformed an analysis of the function and utility of wound-response proteins through bioinformatics research</li>
+<li>Created novel lines of tomato plants through agrobacterium-mediated genetic transformations</li>
+<li>Analyzed the functions and utility of components of the capsaicin synthases pathway</li>
+<li>Instructed classes in plant physiology, plant biotechnology, and genetics</li>
+</ul>
+
+<h3><span class="left" >Plant Tissue Culture Specialist</span> <span class="center">Million Orchid Project</span> <span class="right">2015</span></h3>
+<p>The Million Orchid Project is an organization that clones native Florida orchids to revitalize wild populations.</p>
+<ul>
+<li>Propagated over 25,000 endangered orchids in aseptic tissue culture conditions in order to repopulate Florida's native orchid population</li>
+</ul>
+
+<h3><span class="left" >Events Director</span> <span class="center">Committee to Elect Michelle Lujan Grisham</span> <span class="right">2012-2013</span></h3>
+<p>The Committee to Elect Michelle Lujan Grisham was a congressional campaign that successfully elected Michelle Lujan Grisham as the representative for New Mexico's 1st congressional district.</p>
+<ul>
+<li>Organized and managed 14 successful fundraisers</li>
+<li>Managed staff and used database software to organize data and target potential donors</li>
+<li>Analyzed the functions and utility of components of the capsaicin synthases pathway</li>
+<li>Established relationships with event hosts, volunteers, donors, venue owners, and special guests</li>
+</ul>
+
+            <h2>Skills</h2>
+
+<h3><span class="left" >Scientific Skills</span></h3>
+<p>PCR, Bioinformatics species identification, Agrobacterium-mediated transformation, Plant tissue culture, mammalian cell culture, PCR troubleshooting, Biosafety level-2 lab buildout, Microbial inhibition studies, Pathogens culture, Soil microbe isolation, Culture media creation, Plant stress testing, HPLC, ICP-MS, Sample preparation for chemical analysis</p>
+<h3><span class="left" >Regulatory Skills</span></h3>
+<p>Regulatory submission prep, Governmental communication, Regulatory method validation, Laboratory ISO accreditation, ISO document packet creation, Regulatory interpretation, Governmental audit preparation, B2B audit preparation, Business license proposal writing, Business license submission prep, Manufacturing batch record keeping, Governmental software integration</p>
+<h3><span class="left" >Tech Skills</span></h3>
+<p>LIMS integration, HTML, CSS, Python, Lab tech implementation, Project management, Internal database maintenance, LIMS/regulatory software integration, Controlled document management, Lab hardware/software integration</p>
+<h3><span class="left" >Management Skills</span></h3>
+<p>Employee mentorship, QMS implementation, Laboratory waste handling techniques, Personnel hiring, Employee review procedure implementation, Lab method cost analysis, Equipment purchasing</p>
+
+            <h2>Additional Accomplishments</h2>
+
+<h3><span class="left" >Publications</span></h3>
+<ul>
+<li>Justin Kirke, Noah Kaplan, Stephanie Velez, Xiao-Lu Jin, Paveena Vichyavichien Xing-Hai Zhang. Tissue-Preferential Activity and Induction of the Pepper Capsaicin Synthase PUN1 Promoter by Wounding, Heat and Metabolic Pathway Precursor in Tobacco and Tomato Plants. Molecular Biotechnolo gy. 60. 10.1007/s12033-018-0060-0.</li>
+</ul>
+
+<h3><span class="left" >Awards</span></h3>
+<ul>
+<li>Boca Raton Orchid Society Endowment Scholarship</li>
+<li>Yule C. Potts Perpetual Friendship Trophy</li>
+</ul>
+
+</div>
+</body>
+</html>

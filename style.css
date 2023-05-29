@@ -1,0 +1,114 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    background: fixed;
+    background-image: URL("https://noahjkaplan.bio/sand.jpg");
+    background-size: cover;
+    background-position: center;
+    overflow-y: auto;
+}
+
+.box {
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 45px;
+    text-align: center;
+    border-radius: 25px;
+    position: relative;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+    height: auto;
+    background:rgba(52, 64, 101, .7);
+}
+
+.face {
+    width: 120px;
+    height: auto;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.bio {
+    width: 350px;
+    height: auto;
+    overflow: hidden;
+}
+
+p {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #949494;
+}
+
+.contact {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 15px;
+    margin: 0 auto;
+}
+
+.fa {
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #ffffff;
+}
+
+.fa:hover {
+    color: #949494;
+}  
+
+.rio {
+    position:absolute;
+    width: 50px;
+    height: 58px;
+    bottom: -7px;
+    left:299px;
+    overflow: hidden;
+    clip-path: inset(0 0 16% 0 round 0 0 23px 0);
+    transition-duration: .15s;
+    transition-delay: 0s;
+}
+
+.dogbox{
+    position: relative;
+    top: 58px;
+    height: 58px;
+    transition: .9s;
+
+}
+.dog {
+    height: 58px;
+    width: auto;
+    top: 58px;
+}
+
+.dog:hover {
+    opacity: 70%;
+}
+
+.box:hover{
+    overflow: visible;
+}
+
+.box:hover  .dogbox{
+    top: 0px;
+}
+
+.box:hover  .rio{
+    clip-path: inset(0 0 0 0 round 0 0 0 0);
+    transition-duration: .15s;
+    transition-delay: .8s;
+}
