@@ -2,7 +2,7 @@ body {
     font-family: Helvetica, sans-serif;
     margin: 0;
     background: fixed;
-    background-image: URL("https://sand.jpg");
+    background-image: URL("sand.jpg");
     background-size: cover;
     background-position: center;
     overflow-y: auto;
