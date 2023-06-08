@@ -96,6 +96,10 @@ h1 + ul + p {
     margin: 1em 0;
 }
 
+.pub {
+    margin-bottom: 10px;
+}
+
 @media print {
     body {
         font-size: 10pt;
