@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Inter', sans-serif;
     margin: 0;
     background-color: #fff;
 }
@@ -61,6 +61,11 @@ body {
     background:rgba(52, 64, 101, .7);
 }
 
+h1{
+    font-weight: Black;
+    font-size: 35px;
+    letter-spacing: -.05em;
+}
 .face {
     width: 120px;
     height: auto;
@@ -72,6 +77,8 @@ body {
     width: auto;
     height: auto;
     overflow: hidden;
+    font-weight: 500;
+    letter-spacing: -.04em;
 }
 
 p {
