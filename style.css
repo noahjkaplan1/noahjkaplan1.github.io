@@ -2,10 +2,30 @@ body {
     font-family: Helvetica, sans-serif;
     margin: 0;
     background: fixed;
-    background-image: URL("sand.jpg");
+    background-image: URL(sand.jpg);
     background-size: cover;
     background-position: center;
     overflow-y: auto;
+}
+
+.nav{
+    position: fixed;
+    top:13px;
+    right: 18px;
+    text-align: right;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.nav a{
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none;
+}
+
+.nav a:hover{
+    opacity: .4;
 }
 
 .box {
@@ -48,7 +68,8 @@ a {
 }
 
 a:hover {
-    color: #949494;
+    color: #ffffff;
+    opacity: .5;
 }
 
 .contact {
